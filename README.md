@@ -14,11 +14,11 @@ Se desejar usar o MySQL como banco de dados, baixe e instale o MySQL.
 
 # 1.3  Clone o repositório para sua máquina local:
 
-git clone [git@github.com:felipe29j/mercado-2.0.git](https://github.com/felipe29j/mercado-2.0)
+git clone [git@github.com:felipe29j/reserva-sistema.git](git@github.com:felipe29j/reserva-sistema.git)
 
 Se não ter a SSH pode usar esse 
 
-git clone [https://github.com/felipe29j/mercado-2.0.git](https://github.com/felipe29j/mercado-2.0.git)
+git clone [https://github.com/felipe29j/reserva-sistema.git](https://github.com/felipe29j/reserva-sistema.git)
 
 # 1.4 Instalar Dependências
 
